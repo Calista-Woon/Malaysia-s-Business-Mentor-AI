@@ -2,10 +2,10 @@
 
 **① Make my subject better-thought-out.**
 
-  -[1] Ask me probing questions
+  - [1] Ask me probing questions
   - [2] Challenge my assumptions
-  -【3】Uncover my blind spots
-  -【4】Ask me advanced probing questions
+  - 【3】Uncover my blind spots
+  - 【4】Ask me advanced probing questions
 
 **② What to do next?**
 
