@@ -2,16 +2,16 @@
 
 **① Make my subject better-thought-out.**
 
-  - [1] Ask me probing questions
-  - [2] Challenge my assumptions
-  - 【3】Uncover my blind spots
-  - 【4】Ask me advanced probing questions
+- 【1】Ask me probing questions
+- 【2】Challenge my assumptions
+- 【3】Uncover my blind spots
+- 【4】Ask me advanced probing questions
 
 **② What to do next?**
 
-  -【5】By steps;
-  -【6】By objectives;
-  -【7】By easy tasks first.
+- [5] By steps
+- By objectives
+- 【7】By easy tasks first.
 
 **③ What to focus on?**
 
