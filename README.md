@@ -2,8 +2,8 @@
 
 **① Make my subject better-thought-out.**
 
-  -【1】Ask me probing questions
-  -【2】Challenge my assumptions
+  -[1] Ask me probing questions
+  - [2] Challenge my assumptions
   -【3】Uncover my blind spots
   -【4】Ask me advanced probing questions
 
