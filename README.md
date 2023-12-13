@@ -1,6 +1,4 @@
-# Malaysia-s-Business-Mentor-AI
-
-**Please select a number from the following queries to indicate your preference:**
+# Please select a number from the following queries to indicate your preference:**
 
 **1. Improving Subject Clarity**
    - [1] Ask me probing questions
