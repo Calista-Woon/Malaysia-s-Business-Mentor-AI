@@ -45,4 +45,3 @@
 - 【24】Game theory.
 - 【25】NLP (Neuro-linguistic programming).
 - 【26】40 TRIZ (Theory of Inventive Problem-solving) principles.
-
