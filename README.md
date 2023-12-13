@@ -1,4 +1,4 @@
-# Please select a number from the following queries to indicate your preference:**
+# Please message me a number ( e.g., 2 ) from the below queries to tell me what you want:
 
 **1. Improving Subject Clarity**
    - [1] Ask me probing questions
